@@ -11,7 +11,7 @@
 - Git
 
 ## Projects
-- [Project 1](link) – Description
+- [Project 1](https://github.com/ozi-khan/Jarvis.git) – Description
 - [Project 2](link) – Description
 
 ## Connect with me
